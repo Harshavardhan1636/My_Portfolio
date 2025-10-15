@@ -1,0 +1,38 @@
+# Dependencies and Node
+# The 'node_modules/' entry is the most critical for solving the 100MB file issue.
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+/dist
+
+# Configuration and Sensitive Files
+# DO NOT commit these files as they contain credentials or local configurations.
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+
+# Firebase
+.firebaserc
+firebase.json
+database.rules.json
+storage.rules
+functions/node_modules
+.firebase/
+hosting.*.cache
+
+# App Hosting
+apphosting.yaml
+
+# IDX
+.idx/
+
+# Operating System Files
+.DS_Store

@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "A friendly robot assistant interface, representing a virtual assistant.",
+      "imageUrl": "/projects/virtual-assistant.jpg",
+      "imageHint": "robot assistant"
+    },
+    {
+      "id": "project-4",
+      "description": "A lush, high-definition green farm field under a clear sky, representing smart agriculture.",
+      "imageUrl": "/projects/agri-assist.jpg",
+      "imageHint": "farm field"
+    },
+    {
+      "id": "project-5",
+      "description": "A conceptual image of secure digital document verification with glowing locks.",
+      "imageUrl": "/projects/aiva-docs.jpg",
+      "imageHint": "document verification"
+    },
+    {
+      "id": "project-6",
+      "description": "A cityscape with object detection bounding boxes highlighting cars and pedestrians.",
+      "imageUrl": "/projects/detection.jpg",
+      "imageHint": "object detection"
+    },
+    {
+      "id": "project-7",
+      "description": "A futuristic interface showing face and fingerprint scanning for biometric security.",
+      "imageUrl": "/projects/bio-auth.jpg",
+      "imageHint": "biometric security"
+    },
+    {
+      "id": "project-8",
+      "description": "A cozy digital library with glowing connections between books.",
+      "imageUrl": "/projects/book-recommendation.jpg",
+      "imageHint": "digital library"
+    },
+    {
+      "id": "project-9",
+      "description": "An abstract illustration of filtering digital messages to stop spam.",
+      "imageUrl": "/projects/sms-spam.jpg",
+      "imageHint": "spam filter"
+    },
+    {
+      "id": "project-10",
+      "description": "Pristine clear water with data visualizations showing quality metrics.",
+      "imageUrl": "/projects/water-quality.jpg",
+      "imageHint": "water quality"
+    },
+    {
+      "id": "project-11",
+      "description": "A chatbot interface on a screen with financial charts and stock tickers.",
+      "imageUrl": "/projects/finance-chatbot.jpg",
+      "imageHint": "finance chatbot"
+    }
+  ]
+}
